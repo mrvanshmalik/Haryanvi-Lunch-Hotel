@@ -434,7 +434,7 @@ body{
         display: grid;
         grid-template-columns: 1fr;
         gap:2rem;
-        grid-template-areas: "box1" "box2";
+        grid-template-areas: "box2" "box1";
     }
 
 
